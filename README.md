@@ -119,7 +119,6 @@ Use case diagrams visually represent the interactions between users (actors) and
 - Manage Listings  
 
 ![Use Case Diagram](https://github.com/aichalahnite/requirement-analysis/blob/294854502a0f1d20e593b069268f1a4c1e0a1fd3/Booking%20Management%20System%20Use%20Case.drawio.png)
-![Use Case Diagram](https://github.com/user-attachments/assets/d062621f-dfd9-45db-976b-3e52acf57743)
 
 ---
 
