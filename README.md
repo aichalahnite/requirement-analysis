@@ -118,7 +118,8 @@ Use case diagrams visually represent the interactions between users (actors) and
 - Cancel Booking  
 - Manage Listings  
 
-![Use Case Diagram](alx-booking-uc.png)
+![Use Case Diagram](Booking Management System Use Case.drawio.png)
+![Use Case Diagram](https://github.com/user-attachments/assets/d062621f-dfd9-45db-976b-3e52acf57743)
 
 ---
 
